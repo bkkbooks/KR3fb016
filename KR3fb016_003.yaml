@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb016/tls/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃道九十度表康熙二十二年癸亥孟春依盛京北極高四十二度推治理曆法加工部右侍郎又加二級南懷仁立法
+  hash: sha256:df55df395a8ce888f2c8f3be9aa1a619fce318c93c1d9ca768eb8570a1630cbb
+metadata:
+  title: 交食曆書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb016.xml
+hash: sha256:40df398627a3e6d0d4f30b2fc0ae7dceee629f69990719705f7c0282f52f2e51

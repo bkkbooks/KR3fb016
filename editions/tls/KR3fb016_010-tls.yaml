@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb016/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 交食曆書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb016.xml
+hash: sha256:2837e1fd94383aeab4ff75f36c01a69511fe50fd1e8b6d9b191d3f77f09d2134
