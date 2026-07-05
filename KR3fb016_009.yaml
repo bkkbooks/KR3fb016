@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 其三求九十度限在黃道何宫度分法曰若九十度限在天中度之東則乙丙弧之度分加于中度若九十度限在天中度之西則乙丙弧之度分減于中度加減所得之度分者即黃道之宫度分也其餘仿此
-  hash: sha256:f812263b02a4b15aaa3150d13b18539fa62c24bc219fc562c017ffb422c42891
+  text: 其三求九十度限在黃道何宫度分法曰若九十度限在天中度之東則乙丙弧之度分加于中度若九十度限在天中度之西則乙丙弧之度分減于中度加減所得之度分者卽黃道之宫度分也其餘仿此
+  hash: sha256:41da024d9eec0e4f516d17be94f885fe157dd6ce12c9e6343a72de482f8838c2
 metadata:
   title: 交食曆書
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb016.xml
-hash: sha256:540047777146ffdfc2c5d34336431af8a16cf41f29e289394f17884c6884f593
+hash: sha256:659e3ba75ad5fd89f184ea93fd757b55e19980fdff75fdb7143ba5e921cd8bd9
